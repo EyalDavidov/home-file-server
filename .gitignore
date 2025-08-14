@@ -2,5 +2,9 @@ node_modules/
 uploads/
 .env
 *.log
+<<<<<<< HEAD
 .DS_Store
 .claude
+=======
+.DS_Store
+>>>>>>> 4baa3d33565bf5b32c4ff24a073e4ffe83d70ea4
